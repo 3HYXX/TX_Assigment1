@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B2929A90-4B48-CB6B-AF74-5EAA938F335B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TX_Assigment1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"TargetPlatforms": [
+		"Android"
+	]
+}
